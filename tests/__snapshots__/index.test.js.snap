@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`block dev 1`] = `
+"\\"use strict\\";
+
+const a = 'perfectyang';
+const b = 'goood';"
+`;
